@@ -1,0 +1,6 @@
+{
+  "name": "ResumeLens",
+  "description": "AI-powered resume analyzer for ATS compatibility, keyword gap diagnostics, quantified bullet rewrites, and job-match scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
